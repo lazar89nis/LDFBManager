@@ -12,7 +12,7 @@ import UIKit
 open class LDFBManager {
 
     /// HCFacebookManager shared instance
-    open static let sharedManager: LDFBManager = {
+    public static let sharedManager: LDFBManager = {
         
         let instance = LDFBManager()
         

@@ -12,7 +12,7 @@ DESC
 s.homepage         = "https://github.com/lazar89nis/LDFBManager"
 s.license          = { :type => "MIT", :file => "LICENSE" }
 s.author           = { "Lazar" => "lazar89nis@gmail.com" }
-s.source           = { :git => "https://github.com/Hypercubesoft/LDFBManager.git", :tag => "#{s.version}"}
+s.source           = { :git => "https://github.com/lazar89nis/LDFBManager.git", :tag => "#{s.version}"}
 
 s.ios.deployment_target = "9.0"
 s.source_files = "LDFBManager", "LDFBManager/*", "LDFBManager/**/*"
